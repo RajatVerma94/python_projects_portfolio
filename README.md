@@ -12,7 +12,7 @@ Each project is contained within its own dedicated folder. I am actively updatin
 * **Rock Paper Scissors:** An interactive command-line game demonstrating list structures and randomization.
 * **Treasure Island:** A text-based adventure game built with complex control flow and logical operators.
 * **Tip Calculator:** A financial utility script utilizing math operations and dynamic f-string formatting.
-* **Band Name Generator:** A foundational script exploring variables, data types, and user input.
+* **Protagonist Name Generator:** A foundational script exploring variables, data types, and user input.
 
 *(More independent projects and applications added regularly!)*
 
