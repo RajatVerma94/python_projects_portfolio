@@ -14,6 +14,7 @@ Each project is contained within its own dedicated folder. I am actively updatin
 * **Tip Calculator:** A financial utility script utilizing math operations and dynamic f-string formatting.
 * **BMI Calculator:** A Python-based BMI calculator leveraging if-elif-else control flow to dynamically evaluate user health metrics.
 * **Protagonist Name Generator:** A foundational script exploring variables, data types, and user input.
+* **Roller Coaster:** A beginner Python script that checks a user's height and age to determine roller coaster ride eligibility and ticket price.
 
 *(More independent projects and applications added regularly!)*
 
