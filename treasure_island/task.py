@@ -22,7 +22,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 
 #Welcome Message
-print("Welcome to Treasure Island.")
+print("Welcome to treasure_island.")
 print("Your mission is to find the treasure.")
 
 #Obstacle 1 -> Go left or right

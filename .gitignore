@@ -1,0 +1,20 @@
+# IDE files — PyCharm creates these for local settings only
+.idea/
+*.iml
+
+# Python — bytecode and cache files Python generates while running
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments — these are big, machine-specific, and recreatable
+.venv/
+venv/
+env/
+
+# Environment variables — these often hold secrets like API keys
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
