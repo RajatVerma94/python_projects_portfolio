@@ -8,11 +8,12 @@ Here, you will find a diverse mix of foundational scripts, structured coursework
 Each project is contained within its own dedicated folder. I am actively updating this repository with new tools, games, and applications.
 
 ### 🌟 Current Projects
+* **Hangman Game:** A command line Hangman game that loads words from an external dictionary file, displays ASCII hangman stages, and tracks lives across guesses.
 * **PyPassword Generator:** A secure, randomized password generator utilizing Python loops and the `random` module.
-* **Rock Paper Scissors:** An interactive command-line game demonstrating list structures and randomization.
-* **Treasure Island:** A text-based adventure game built with complex control flow and logical operators.
+* **Rock Paper Scissors:** An interactive command line game demonstrating list structures and randomization.
+* **Treasure Island:** A text based adventure game built with complex control flow and logical operators.
 * **Tip Calculator:** A financial utility script utilizing math operations and dynamic f-string formatting.
-* **BMI Calculator:** A Python-based BMI calculator leveraging if-elif-else control flow to dynamically evaluate user health metrics.
+* **BMI Calculator:** A Python based BMI calculator leveraging if-elif-else control flow to dynamically evaluate user health metrics.
 * **Protagonist Name Generator:** A foundational script exploring variables, data types, and user input.
 * **Roller Coaster:** A beginner Python script that checks a user's height and age to determine roller coaster ride eligibility and ticket price.
 
