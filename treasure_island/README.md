@@ -9,6 +9,7 @@ The player is presented with three sequential decision points. Each choice
 either advances them deeper into the adventure or ends the game. Only one 
 specific path of three correct choices leads to the treasure.
 
+````
 The decision tree:
 Start
 ├── Left
@@ -18,7 +19,7 @@ Start
 │         ├── Yellow door → You Win!
 │         └── Blue door   → Game Over (flooded room)
 └── Right       → Game Over (magma)
-
+````
 ## How to run it
 
 1. Make sure Python 3 is installed on your machine
@@ -31,13 +32,22 @@ Start
 
 ## Sample run
 Welcome to Treasure Island.
+
 Your mission is to find the treasure.
-You've arrived at a cross road. You have two options: Go Left or Go Right.
+
+You've arrived at a cross road. 
+You have two options: Go Left or Go Right.
+
 Type L for left or R for right: L
+
 You've arrived at a lake...
+
 Type swim to Swim across or type wait for a boat to arrive: wait
+
 You have safely arrived on the island.
+
 Please choose a door to enter Red, Yellow or Blue: yellow
+
 Congratulations! You have found the treasure! You Won!
 
 ## What I learned
