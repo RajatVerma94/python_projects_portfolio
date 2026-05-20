@@ -8,6 +8,7 @@ Here, you will find a diverse mix of foundational scripts, structured coursework
 Each project is contained within its own dedicated folder. I am actively updating this repository with new tools, games, and applications.
 
 ### 🌟 Current Projects
+* **Calculator:** A command-line program that lets user perform basic calculation functions such as ' + ', ' - ', ' * ' and ' / '
 * **Blind Auction:** A command-line program that lets multiple people enter blind bids and announces the highest bidder at the end.
 * **Caesar Cipher:** A command-line Caesar cipher tool that encrypts and decrypts messages by shifting each letter through the alphabet by a user-chosen amount.
 * **Hangman Game:** A command line Hangman game that loads words from an external dictionary file, displays ASCII hangman stages, and tracks lives across guesses.
