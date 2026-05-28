@@ -8,6 +8,7 @@ Here, you will find a diverse mix of foundational scripts, structured coursework
 Each project is contained within its own dedicated folder. I am actively updating this repository with new tools, games, and applications.
 
 ### 🌟 Current Projects
+* **Guess The Number:** A simplified version of the higher or lower game played by randomly selecting an integer between 1 and 100. You get certain number of chances to make the guess based on the difficulty level you choose.
 * **Blackjack:** A command-line implementation of a simplified Blackjack game where the player competes against the dealer to get as close to 21 as possible without busting.
 * **Calculator:** A command-line program that lets user perform basic calculation functions such as ' + ', ' - ', ' * ' and ' / '
 * **Blind Auction:** A command-line program that lets multiple people enter blind bids and announces the highest bidder at the end.
