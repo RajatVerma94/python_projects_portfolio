@@ -193,7 +193,6 @@ Oh No!! You are wrong! Final score: 6
 guess_the_name/
 ├── task.py              # Game logic
 ├── art.py               # ASCII logo
-├── game_data.py
 └── README.md
 ```
 
